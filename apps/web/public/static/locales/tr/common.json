@@ -12,6 +12,7 @@
   "event_declined_subject": "Reddedildi: {{date}} tarihinde {{name}} ile {{eventType}}",
   "event_cancelled_subject": "İptal edildi: {{date}} tarihinde {{name}} ile {{eventType}}",
   "event_request_declined": "Etkinlik talebiniz reddedildi",
+  "event_request_declined_recurring": "Yinelenen etkinlik talebiniz reddedildi",
   "event_request_cancelled": "Planlanan etkinliğiniz iptal edildi",
   "organizer": "Organizatör",
   "need_to_reschedule_or_cancel": "Yeniden planlamanız veya iptal etmeniz mi gerekiyor?",
@@ -605,7 +606,6 @@
   "into_the_future": "gelecekte",
   "within_date_range": "Bir tarih aralığında",
   "indefinitely_into_future": "Süresiz olarak gelecekte",
-  "this_input_will_shown_booking_this_event": "Bu girdi, bu etkinlik için rezervasyon yapılırken gösterilecek",
   "add_new_custom_input_field": "Yeni özel veri girdi alanı ekle",
   "quick_chat": "Hızlı Sohbet",
   "add_new_team_event_type": "Yeni bir ekip ekinliği türü ekle",
@@ -763,5 +763,7 @@
   "send_reschedule_request": "Yeniden planlama isteğinde bulun ",
   "edit_booking": "Rezervasyonu düzenle",
   "reschedule_booking": "Rezervasyonu yeniden planla",
-  "former_time": "Önceki tarih"
+  "former_time": "Önceki tarih",
+  "search": "Ara",
+  "this_input_will_shown_booking_this_event": "Bu girdi, bu etkinlik için rezervasyon yapılırken gösterilecek"
 }

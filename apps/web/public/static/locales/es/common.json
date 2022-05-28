@@ -605,7 +605,6 @@
   "into_the_future": "en el futuro",
   "within_date_range": "Dentro de un rango de fechas",
   "indefinitely_into_future": "Indefinidamente en el futuro",
-  "this_input_will_shown_booking_this_event": "Esta entrada se mostrará al reservar este evento.",
   "add_new_custom_input_field": "Agregar nuevo campo de entrada personalizado",
   "quick_chat": "Chat Rápido",
   "add_new_team_event_type": "Crear Nuevo Tipo de Evento para Equipo",
@@ -768,5 +767,6 @@
   "impersonate_user_tip": "Todos los usos de esta característica se auditan.",
   "impersonating_user_warning": "Suplantando nombre de usuario \"{{user}}\".",
   "impersonating_stop_instructions": "<0>Haga clic aquí para detener</0>.",
-  "zapier_setup_instructions": "<0>Inicia sesión en tu cuenta de Zapier y crea un nuevo Zap.</0><1>Selecciona Cal.com cómo tu aplicación disparadora. Tambien elige tu evento disparador.</1><2>Elige tu cuenta e ingresa tu Clave API única.</2><3>Prueba tu disparador.</3><4>¡Listo!</4>"
+  "zapier_setup_instructions": "<0>Inicia sesión en tu cuenta de Zapier y crea un nuevo Zap.</0><1>Selecciona Cal.com cómo tu aplicación disparadora. Tambien elige tu evento disparador.</1><2>Elige tu cuenta e ingresa tu Clave API única.</2><3>Prueba tu disparador.</3><4>¡Listo!</4>",
+  "this_input_will_shown_booking_this_event": "Esta entrada se mostrará al reservar este evento."
 }

@@ -605,7 +605,6 @@
   "into_the_future": "في المستقبل",
   "within_date_range": "خلال فترة زمنية",
   "indefinitely_into_future": "إلى أجل غير مسمى في المستقبل",
-  "this_input_will_shown_booking_this_event": "سيُعرَض هذا المُدخَل عند حجز هذا الحدث",
   "add_new_custom_input_field": "إضافة خانة إدخال مخصص جديدة",
   "quick_chat": "الدردشة السريعة",
   "add_new_team_event_type": "إضافة نوع حدث جديد لفريق",
@@ -763,5 +762,6 @@
   "send_reschedule_request": "طلب إعادة جدولة ",
   "edit_booking": "تحرير الحجز",
   "reschedule_booking": "إعادة جدولة الحجز",
-  "former_time": "الوقت السابق"
+  "former_time": "الوقت السابق",
+  "this_input_will_shown_booking_this_event": "سيُعرَض هذا المُدخَل عند حجز هذا الحدث"
 }

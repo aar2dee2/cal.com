@@ -12,6 +12,7 @@
   "event_declined_subject": "Відхилено: {{eventType}} «{{name}}», {{date}}",
   "event_cancelled_subject": "Скасовано: {{eventType}} «{{name}}», {{date}}",
   "event_request_declined": "Ваш запит на захід відхилено",
+  "event_request_declined_recurring": "Ваш запит на повторюваний захід відхилено",
   "event_request_cancelled": "Ваш запланований захід скасовано",
   "organizer": "Організатор",
   "need_to_reschedule_or_cancel": "Потрібно перенести чи скасувати?",
@@ -605,7 +606,6 @@
   "into_the_future": "у майбутньому",
   "within_date_range": "У діапазоні дат",
   "indefinitely_into_future": "Колись у майбутньому",
-  "this_input_will_shown_booking_this_event": "Це поле введення буде показано під час бронювання часу для цього заходу",
   "add_new_custom_input_field": "Додати нове власне поле введення",
   "quick_chat": "Коротка розмова",
   "add_new_team_event_type": "Додати новий тип заходу для команди",
@@ -763,5 +763,6 @@
   "send_reschedule_request": "Надіслати запит на перенесення ",
   "edit_booking": "Редагувати бронювання",
   "reschedule_booking": "Перенести бронювання",
-  "former_time": "Попередній час"
+  "former_time": "Попередній час",
+  "this_input_will_shown_booking_this_event": "Це поле введення буде показано під час бронювання часу для цього заходу"
 }

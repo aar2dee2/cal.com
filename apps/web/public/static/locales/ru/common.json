@@ -605,7 +605,6 @@
   "into_the_future": "в будущее",
   "within_date_range": "В диапазоне дат",
   "indefinitely_into_future": "На неопределенный срок в будущем",
-  "this_input_will_shown_booking_this_event": "Этот вопрос будет показан при бронировании события по этому шаблону",
   "add_new_custom_input_field": "Добавить настраиваемый вопрос",
   "quick_chat": "Короткая встреча",
   "add_new_team_event_type": "Добавить новый тип события команды",
@@ -763,5 +762,6 @@
   "send_reschedule_request": "Запросить перенос ",
   "edit_booking": "Редактировать бронирование",
   "reschedule_booking": "Перенести бронирование",
-  "former_time": "Прежнее время"
+  "former_time": "Прежнее время",
+  "this_input_will_shown_booking_this_event": "Этот вопрос будет показан при бронировании события по этому шаблону"
 }

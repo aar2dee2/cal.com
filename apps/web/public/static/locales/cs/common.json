@@ -605,7 +605,6 @@
   "into_the_future": "v budoucnu",
   "within_date_range": "V časovém rozmezí",
   "indefinitely_into_future": "Neomezeně do budoucna",
-  "this_input_will_shown_booking_this_event": "Toto pole se zobrazí při rezervaci této události",
   "add_new_custom_input_field": "Přidat nové vlastní pole",
   "quick_chat": "Quick Chat",
   "add_new_team_event_type": "Přidat nový typ týmové události",
@@ -769,5 +768,6 @@
   "impersonate": "Zosobnit",
   "impersonate_user_tip": "Všechna použití této funkce jsou kontrolována.",
   "impersonating_user_warning": "Zosobnění uživatelského jména „{{user}}“.",
-  "impersonating_stop_instructions": "<0>Kliknutím zde zastavte</0>."
+  "impersonating_stop_instructions": "<0>Kliknutím zde zastavte</0>.",
+  "this_input_will_shown_booking_this_event": "Toto pole se zobrazí při rezervaci této události"
 }

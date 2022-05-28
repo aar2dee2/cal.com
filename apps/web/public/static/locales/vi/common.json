@@ -605,7 +605,6 @@
   "into_the_future": "trong tương lai",
   "within_date_range": "Trong phạm vi ngày",
   "indefinitely_into_future": "Vô thời hạn trong tương lai",
-  "this_input_will_shown_booking_this_event": "Trường này sẽ được hiển thị khi đặt sự kiện này",
   "add_new_custom_input_field": "Thêm trường tùy chỉnh mới",
   "quick_chat": "Trò chuyện nhanh",
   "add_new_team_event_type": "Thêm một loại sự kiện nhóm mới",
@@ -763,5 +762,6 @@
   "send_reschedule_request": "Yêu cầu xếp lại lịch ",
   "edit_booking": "Sửa mục đặt chỗ",
   "reschedule_booking": "Xếp lại lịch đặt chỗ",
-  "former_time": "Thời gian cũ"
+  "former_time": "Thời gian cũ",
+  "this_input_will_shown_booking_this_event": "Trường này sẽ được hiển thị khi đặt sự kiện này"
 }

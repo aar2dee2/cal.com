@@ -605,7 +605,6 @@
   "into_the_future": "미래로",
   "within_date_range": "기간 내",
   "indefinitely_into_future": "무한히 미래로",
-  "this_input_will_shown_booking_this_event": "이 입력은 이 이벤트를 예약할 때 표시됩니다.",
   "add_new_custom_input_field": "새 사용자 정의 입력 필드 추가",
   "quick_chat": "빠른 채팅",
   "add_new_team_event_type": "새 팀 이벤트 타입 추가",
@@ -763,5 +762,6 @@
   "send_reschedule_request": "일정 변경 요청",
   "edit_booking": "예약 편집",
   "reschedule_booking": "예약 일정 변경",
-  "former_time": "이전 시간"
+  "former_time": "이전 시간",
+  "this_input_will_shown_booking_this_event": "이 입력은 이 이벤트를 예약할 때 표시됩니다."
 }

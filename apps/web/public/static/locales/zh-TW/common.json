@@ -605,7 +605,6 @@
   "into_the_future": "至未來",
   "within_date_range": "一段日期範圍之內",
   "indefinitely_into_future": "無限延伸至未來",
-  "this_input_will_shown_booking_this_event": "輸入欄會在預約此活動的時候顯示",
   "add_new_custom_input_field": "新增自訂輸入欄",
   "quick_chat": "快速閒聊",
   "add_new_team_event_type": "新增團隊活動類型",
@@ -763,5 +762,6 @@
   "send_reschedule_request": "要求重新預約 ",
   "edit_booking": "編輯預約",
   "reschedule_booking": "重新安排預約",
-  "former_time": "之前時間"
+  "former_time": "之前時間",
+  "this_input_will_shown_booking_this_event": "輸入欄會在預約此活動的時候顯示"
 }

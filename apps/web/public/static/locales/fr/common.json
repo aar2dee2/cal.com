@@ -605,7 +605,6 @@
   "into_the_future": "dans le futur",
   "within_date_range": "Dans une plage de dates",
   "indefinitely_into_future": "Sans doute dans le futur",
-  "this_input_will_shown_booking_this_event": "Cette entrée sera affichée lors de la réservation de cet événement",
   "add_new_custom_input_field": "Ajouter un nouveau champ de saisie personnalisé",
   "quick_chat": "Chat Rapide",
   "add_new_team_event_type": "Ajouter un nouveau type d'événement d'équipe",
@@ -763,5 +762,6 @@
   "send_reschedule_request": "Demander un report ",
   "edit_booking": "Modifier la réservation",
   "reschedule_booking": "Reporter la réservation",
-  "former_time": "Ancienne heure"
+  "former_time": "Ancienne heure",
+  "this_input_will_shown_booking_this_event": "Cette entrée sera affichée lors de la réservation de cet événement"
 }

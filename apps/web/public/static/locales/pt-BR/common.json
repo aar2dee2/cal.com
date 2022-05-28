@@ -606,7 +606,6 @@
   "into_the_future": "no futuro",
   "within_date_range": "Dentro de um período",
   "indefinitely_into_future": "Indefinidamente para o futuro",
-  "this_input_will_shown_booking_this_event": "Este campo será mostrado na reserva deste evento",
   "add_new_custom_input_field": "Adicionar novo campo personalizado",
   "quick_chat": "Bate papo rápido",
   "add_new_team_event_type": "Adicionar um novo tipo de evento de equipe",
@@ -768,5 +767,6 @@
   "impersonate": "Representar",
   "impersonate_user_tip": "Todos os usos desse recurso são auditados.",
   "impersonating_user_warning": "Representando o nome de usuário \"{{user}}\".",
-  "impersonating_stop_instructions": "<0>Clique aqui para parar</0>."
+  "impersonating_stop_instructions": "<0>Clique aqui para parar</0>.",
+  "this_input_will_shown_booking_this_event": "Este campo será mostrado na reserva deste evento"
 }
